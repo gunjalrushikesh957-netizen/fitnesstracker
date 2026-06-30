@@ -17,6 +17,12 @@ A Fitness Tracker App built using Python, Streamlit and SQLite.
 - SQLite
 - Pandas
 
+# Fitness Tracker App
+
+## 🚀 Live Demo
+https://fitnesstracker-h8s45zspit7tslq7f7av48.streamlit.app
+
+Click the above link to use the app online without installing Python.
 ## How to Run
 
 ```bash
